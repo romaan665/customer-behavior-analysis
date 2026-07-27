@@ -5,7 +5,11 @@
 This project demonstrates an end-to-end data analytics workflow using Python, PostgreSQL, SQL, and Power BI. It covers the complete data analysis process, from loading and cleaning data to performing SQL analysis and building an interactive dashboard for business insights.
 
 ---
+## Dashboard Preview
 
+![Power BI Dashboard](images/dashboard.png)
+
+---
 ## Dataset
 
 The dataset contains customer-related information used for analysis, including:
