@@ -7,7 +7,9 @@ This project demonstrates an end-to-end data analytics workflow using Python, Po
 ---
 ## Dashboard Preview
 
-![Power BI Dashboard](images/dashboard.png)
+The Power BI dashboard provides interactive insights into customer behavior, sales trends, and key performance indicators.
+
+![Dashboard](images/dashboard.png)
 
 ---
 ## Dataset
