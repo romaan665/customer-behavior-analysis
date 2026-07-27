@@ -1,8 +1,9 @@
-Data Analytics Project
-Overview
+#Data Analytics Project
+
+Overview:
 This project demonstrates an end-to-end data analytics workflow, starting from data loading and preprocessing in Python to data visualization in Power BI. The project focuses on cleaning, analyzing, and transforming raw data into meaningful business insights using Python, PostgreSQL, SQL, and Power BI.
 
-Dataset
+Dataset:
 The dataset contains customer-related information used for exploratory data analysis, data cleaning, SQL querying, and dashboard creation.
 
 Data includes:
@@ -21,11 +22,11 @@ SQLAlchemy
 Power BI
 Project Workflow
 
-1. Data Loading
+1. Data Loading:
 Imported the dataset into Python using Pandas.
 Loaded the cleaned dataset into a PostgreSQL database using SQLAlchemy.
 
-3. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA):-
 Performed initial analysis to understand the dataset by:
 Checking data types
 Identifying missing values
@@ -33,7 +34,7 @@ Finding duplicate records
 Reviewing summary statistics
 Exploring data distributions
 
-3. Data Cleaning
+3. Data Cleaning:-
 Prepared the dataset by:
 Handling missing values
 Removing duplicate records
@@ -41,7 +42,7 @@ Correcting inconsistent data
 Converting data types where necessary
 Preparing the data for analysis
 
-4. SQL Analysis
+4. SQL Analysis:-
 Executed SQL queries in PostgreSQL to analyze the dataset, including:
 Filtering records
 Sorting data
@@ -50,7 +51,7 @@ GROUP BY and HAVING
 JOIN operations
 Business insight queries
 
-6. Dashboard Development
+6. Dashboard Development:-
 Built an interactive Power BI dashboard to visualize key insights using:
 KPI Cards
 Bar Charts
@@ -58,7 +59,7 @@ Line Charts
 Pie Charts
 Slicers and Filters
 
-Dashboard Highlights:
+Dashboard Highlights:-
 The dashboard provides insights into:
 Customer distribution
 Sales and revenue trends
